@@ -19,7 +19,8 @@ while True:
         break
 
     # Show frames
-    cv2.imshow('frame')
+    gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
+    cv2.imshow('frame', gray)
 
     # When clicked 'q' wait for one second and then break
     if cv2.waitKey(1) == ord('q'):
