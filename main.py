@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 
 # 0 means first camera, 1 means webcam etc.
-cap = cv2.VideoCapture(1)
+cap = cv2.VideoCapture(0)
 
 # Check camera
 if not cap.isOpened():
