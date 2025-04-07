@@ -1,7 +1,7 @@
 Algoritmik doğal dil
 
 1. başla
-2. kamerayı aç # tamamlandı ancak kamera şu an gri
+2. kamerayı aç # tamamlandı ancak kamera şu an gri durumda
 3. seçenekleri ekle(bulanıklaştırma,netleştirme)
 4. fotoğrafı kaydedebilmek için bir tuş
 5. bitir
