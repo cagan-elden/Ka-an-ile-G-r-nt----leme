@@ -27,4 +27,8 @@ while True:
         break
 
 cap.release() # Stop recording
+<<<<<<< HEAD
 cv2.destroyAllWindows() # Destroys the page
+=======
+cv2.destroyAllWindows() # Destroys the page
+>>>>>>> 3ccaee19511d8b1f58fe8d2e1e7e26f77adc536b
